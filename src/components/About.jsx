@@ -48,11 +48,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in 
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js.
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        A BCA student with experience in frontend development using React.js and Vite.js. Delivered projects in IoT and
+web platforms during internships at IWAI and Elkana Technologies. Skilled in cybersecurity, MySQL, and team
+collaboration, with proven leadership through student council and event coordination roles.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
